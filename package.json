@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/uLatipov/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uLatipov/test/issues"
+  },
+  "homepage": "https://github.com/uLatipov/test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
